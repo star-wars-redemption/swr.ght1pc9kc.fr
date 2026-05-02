@@ -5,6 +5,7 @@ description: J’ai eu la chance de gagner un Millennium Falcon™ Lego 75192, v
 categories:
   - Divers
 tags: [starship, starwars, lego]
+draft: true
 ---
 
 Il y a quelque temps, j’ai eu la chance de gagner un **Millennium Falcon™ Lego #75192** et maintenant que j’ai le temps de me poser un peu pour le monter, je me suis dits, pourquoi ne pas en faire profiter les milliers (que dis-je million) de lecture de ce site fantastique. Donc me voilà à vous raconter l’histoire de ce Faucon.
